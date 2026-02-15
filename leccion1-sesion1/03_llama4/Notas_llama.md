@@ -1,0 +1,12 @@
+# Apuntes sobre Llama 4 Models
+
+| Característica         | Llama 4 Scout                                | Llama 4 Maverick                                                                        | Llama 4 Behemoth                                                          |
+| :--------------------- | :------------------------------------------- | :-------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| **Parámetros**         | 17B (activos) / 109B (totales)               | 17B (activos) / 400B (totales)                                                          | 288B (activos) / 2T (totales)                                             |
+| **Fortalezas**         | Ventana de contexto enorme (10M tokens), muy eficiente para costos, adaptable a hardware limitado. | Equilibrado, buen rendimiento general, multimodal, eficiente y rápido.            | Máximo rendimiento, capacidades multimodales avanzadas, vanguardia en IA. |
+| **Debilidades**        | Menor rendimiento en tareas complejas que Maverick o Behemoth. | Requiere más recursos que Scout.                                                        | Alto costo, alta latencia, no disponible al público general (beta cerrada). |
+| **Latencia/Costo Relativo** | Baja latencia, bajo costo (el más eficiente).                | Media latencia, costo moderado.                                                         | Alta latencia, alto costo (el más caro).                                  |
+| **Disponibilidad**     | Pública (pesos abiertos y API)                 | Pública (pesos abiertos y API)                                                          | Beta cerrada (solo investigación/socios)                                 |
+| **Casos de Uso Recomendados** | Análisis de documentos, gestión del conocimiento, resumen de textos muy largos, flujos de trabajo de contexto extenso. | Asistentes conversacionales, codificación, razonamiento, análisis de datos con multimedia, atención al cliente multilingüe, generación de contenido. | Investigación avanzada, destilación de modelos, problemas STEM complejos, desarrollo de IA de última generación. |
+
+* Autor: Kevin MJ
