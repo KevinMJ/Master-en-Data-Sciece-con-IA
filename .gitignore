@@ -1,0 +1,51 @@
+# =========================
+# Archivos de macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icono de carpeta en macOS
+Icon
+
+# Archivos temporales de sistema
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# =========================
+# Archivos de editores
+# =========================
+
+# VS Code
+.vscode/
+.history/
+
+# JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# =========================
+# Archivos de dependencias
+# =========================
+node_modules/
+vendor/
+
+# =========================
+# Archivos de compilación
+# =========================
+dist/
+build/
+out/
+
+# =========================
+# Archivos temporales
+# =========================
+*.log
+*.tmp
+*.swp
