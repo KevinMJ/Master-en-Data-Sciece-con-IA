@@ -1,51 +1,38 @@
 # =========================
-# Archivos de macOS
+# Archivos de sistema (macOS)
 # =========================
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Icono de carpeta en macOS
 Icon
-
-# Archivos temporales de sistema
 ._*
 .Spotlight-V100
 .Trashes
 .fseventsd
 
 # =========================
-# Archivos de editores
-# =========================
-
-# VS Code
-.vscode/
-.history/
-
-# JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
-.idea/
-*.iml
-
-# Sublime Text
-*.sublime-workspace
-*.sublime-project
-
-# =========================
-# Archivos de dependencias
+# Dependencias
 # =========================
 node_modules/
 vendor/
 
 # =========================
-# Archivos de compilación
+# Compilación
 # =========================
 dist/
 build/
 out/
+__pycache__/
+*.pyc
 
 # =========================
-# Archivos temporales
+# Temporales
 # =========================
 *.log
 *.tmp
 *.swp
+
+# =========================
+# Configuración sensible
+# =========================
+.env
