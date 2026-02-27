@@ -40,27 +40,27 @@ __pycache__/
 # =========================
 # Archivos de Office
 # =========================
-    **/*.doc
-    **/*.docx
-    **/*.docm
-    **/*.dot
-    **/*.dotx
-    **/*.dotm
-    **/*.xls
-    **/*.xlsx
-    **/*.xlsm
-    **/*.xlt
-    **/*.xltx
-    **/*.xltm
-    **/*.ppt
-    **/*.pptx
-    **/*.pptm
-    **/*.pot
-    **/*.potx
-    **/*.potm
-    **/*.pps
-    **/*.ppsm
-    **/*.ppam   
+**/*.doc
+**/*.docx
+**/*.docm
+**/*.dot
+**/*.dotx
+**/*.dotm
+**/*.xls
+**/*.xlsx
+**/*.xlsm
+**/*.xlt
+**/*.xltx
+**/*.xltm
+**/*.ppt
+**/*.pptx
+**/*.pptm
+**/*.pot
+**/*.potx
+**/*.potm
+**/*.pps
+**/*.ppsm
+**/*.ppam   
 
 # =========================
 # Archivos Offline personales
