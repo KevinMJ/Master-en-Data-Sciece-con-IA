@@ -14,7 +14,7 @@ La diferencia está en **qué hacen con los datos** y **hasta dónde llegan las 
 ## ¿Dónde entra el aprendizaje estadístico?
 El **aprendizaje estadístico** (statistical learning) es el conjunto de métodos —muchos provenientes del machine learning— que construyen modelos a partir de datos de muestra para inferir patrones y hacer predicciones sobre nuevos datos. Dentro de la inferencia clásica cumple dos papeles clave:
 
-1. **Modelado flexible de la relación entre variables **(por ejemplo, regresión, árboles, redes). Estos modelos estiman parámetros y permiten cuantificar la incertidumbre (intervalos, pruebas) sobre la población subyacente.
+1. **Modelado flexible de la relación entre variables** (por ejemplo, regresión, árboles, redes). Estos modelos estiman parámetros y permiten cuantificar la incertidumbre (intervalos, pruebas) sobre la población subyacente.
 2. **Predicción y generalización**: el foco pasa de solo probar hipótesis a evaluar qué tan bien el modelo aprendido se comporta fuera de la muestra (error de predicción, validación cruzada), lo que es, en esencia, una forma de inferencia predictiva sobre la población de casos futuros.
 
 En resumen: la descriptiva resume lo observado; la inferencial usa la muestra para hablar de la población; y el aprendizaje estadístico es la caja de herramientas moderna que, dentro de la inferencial, construye y evalúa modelos capaces de inferir y predecir más allá de los datos que tenemos.
@@ -80,4 +80,4 @@ En palabras de Google Developers: “el descenso de gradientes es una técnica�
 Así, la correlación te dice cuán alineados están los puntos; la regresión traduce eso en una recta predictiva; y el descenso de gradiente es el procedimiento que, paso a paso, ajusta la pendiente y el intercepto de esa recta para que el error cuadrático sea mínimo.
 ---
 # Reflexión
-Lo que más me sorprende es la fluidez con la que puedo pasar de un tema técnico a una explicación en lenguaje llano. No es solo que “sepa” las definiciones; es que puedo enlazar conceptos.
+Lo que más me sorprende es la fluidez con la que puedo pasar de un tema técnico a una explicación en lenguaje llano. No es solo que “sepa” las definiciones; es que pueda enlazar conceptos.
