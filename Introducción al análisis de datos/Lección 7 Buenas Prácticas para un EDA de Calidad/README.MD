@@ -8,7 +8,9 @@ El objetivo de esta actividad es profundizar tu interacción con herramientas de
 Deberás ingresar al sitio oficial de Meta AI y utilizar 3 prompts distintos para resolver las siguientes interrogantes. No te limites a la primera respuesta; si algo no te queda claro, ¡pregunta de nuevo!
 
 1. Reproducibilidad en Data Science: ¿Por qué la reproducibilidad es considerada uno de los pilares fundamentales de un proyecto de Ciencia de Datos profesional? ¿Cuáles son las principales prácticas para garantizarla en un notebook de Google Colab o Jupyter, y qué consecuencias tiene para un equipo de trabajo cuando un análisis no puede ser reproducido?
+
 2. Documentación de Decisiones Analíticas: ¿Cuál es la diferencia entre documentar el qué y documentar el por qué en un notebook de análisis de datos? Proporciona un ejemplo concreto de una decisión analítica (como la elección entre media o mediana para imputar) y muestra cómo debería documentarse correctamente tanto en una celda Markdown como en un comentario de código.
+
 3. EDA en la Industria: ¿Cómo se estructura un Análisis Exploratorio de Datos (EDA) en un equipo profesional de Data Science? ¿Qué entregables se esperan al finalizar el EDA antes de pasar a la fase de modelado, y qué herramientas o formatos (como reportes, dashboards o notebooks) se utilizan comúnmente para comunicar los hallazgos a stakeholders no técnicos?
 
 Se proporciona la liga del chat de Meta AI para esta actividad: https://www.meta.ai/
